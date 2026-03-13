@@ -187,4 +187,6 @@ Dự án xây dựng Hệ điều hành thời gian thực (RTOS) từ cơ bản
 
 ---
 
+https://github.com/jserv/mini-arm-os?fbclid=IwY2xjawQhESNleHRuA2FlbQIxMABicmlkETFwR1RtaFZVVFEyUFVJWEVSc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHqPadw6MhEAyE_3gPT7rVmPEpyxlWzY8yGl4imvajrrF6q9OD0yE9_Fxb7Fb_aem_SHf99d-15D3CUu0KHoPBAA
 
+https://github.com/Thanhlearningcode/RTOS-BKTECH-COUSRE?fbclid=IwY2xjawQhEUNleHRuA2FlbQIxMABicmlkETFwR1RtaFZVVFEyUFVJWEVSc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHnLaYVlS02tGVjxDyjd1gQNNYkT7CW0X4IflkEburFLMrj-IXiW-lZEyfLzp_aem_sXy0Niaqh5lK5gnk3ygsLQ
