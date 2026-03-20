@@ -1,14 +1,14 @@
 # RTOS - Thiết kế và triển khai lõi hệ điều hành đa nhiệm thời gian thực (RTOS) từ mức thanh ghi trên vi điều khiển ARM Cortex-M ứng dụng vào điều khiển led 7 thanh và led đơn
 
-Chào bạn! Ý tưởng tự xây dựng một RTOS từ con số 0 trên dòng STM32F4 là một thử thách cực kỳ thú vị và giúp nâng trình kiến thức về System Architecture lên rất nhiều.
+Chào bạn! Ý tưởng tự xây dựng một RTOS từ con số 0 trên dòng ESP32  là một thử thách cực kỳ thú vị và giúp nâng trình kiến thức về System Architecture lên rất nhiều.
 
 Dưới đây là nội dung kế hoạch 12 tuần của bạn đã được tối ưu hóa theo định dạng **Markdown (`README.md`)** chuyên nghiệp để bạn có thể đưa thẳng lên GitHub. Tôi đã bổ sung thêm 2 tuần cuối (Tuần 11-12) để hoàn thiện đúng lộ trình 12 tuần như tiêu đề bạn mong muốn.
 
 ---
 
-# 🚀 STM32 Custom RTOS Development Project
+# 🚀 ESP32 Custom RTOS Development Project
 
-Dự án xây dựng Hệ điều hành thời gian thực (RTOS) từ cơ bản dành cho dòng vi điều khiển **STM32F4 (ARM Cortex-M4)**.
+Dự án xây dựng Hệ điều hành thời gian thực (RTOS) từ cơ bản dành cho dòng vi điều khiển **ESP32  (ARM Cortex-M4)**.
 
 ---
 
@@ -22,9 +22,9 @@ Dự án xây dựng Hệ điều hành thời gian thực (RTOS) từ cơ bản
 * **Nội dung:**
 * Tìm hiểu khái niệm, phân loại và ứng dụng của RTOS.
 * Nghiên cứu kiến trúc **ARM Cortex-M**: Tập thanh ghi, chế độ Thread mode & Handler mode.
-* Đọc Datasheet/Reference Manual của **STM32F4xx**.
-* Cài đặt: STM32CubeIDE/Keil uVision, toolchain ARM GCC.
-* Chuẩn bị phần cứng: Board STM32F4 Discovery, LED, điện trở.
+* Đọc Datasheet/Reference Manual của **ESP32 xx**.
+* Cài đặt: ESP32CubeIDE/Keil uVision, toolchain ARM GCC.
+* Chuẩn bị phần cứng: Board ESP32  Discovery, LED, điện trở.
 
 
 * **Sản phẩm:** * [ ] Báo cáo tổng quan RTOS & ARM.
@@ -180,9 +180,8 @@ Dự án xây dựng Hệ điều hành thời gian thực (RTOS) từ cơ bản
 
 | Loại | Chi tiết |
 | --- | --- |
-| **Vi điều khiển** | STM32F4 Discovery (ARM Cortex-M4) |
-| **Công cụ nạp** | ST-Link V2 |
-| **Phần mềm** | STM32CubeIDE / Keil uVision |
+| **Vi điều khiển** | ESP32 Discovery (ARM Cortex-M4) |
+| **Phần mềm** | PlatformIO |
 | **Ngôn ngữ** | C, Assembly (ARM Cortex-M) |
 
 ---
